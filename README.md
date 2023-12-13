@@ -1,6 +1,6 @@
 Build & Test Apache RocketMQ on Harness CI
 =======================================
-This is a fork of Apache RocketMQ project. This repo can be used to demo the new capabilities of Harness CI. Please follow [these instructions](https://github.com/harness-community/rocketmq/blob/main/.harness/README.md) on how to clone this repo and see the results yourself.
+This is a fork of Apache RocketMQ project. This repo can be used to demo the new capabilities of Harness CI. Please follow [these instructions](https://github.com/harness-community/rocketmq/blob/develop/.harness/README.md) on how to clone this repo and see the results yourself.
 
 ## Apache RocketMQ
 
